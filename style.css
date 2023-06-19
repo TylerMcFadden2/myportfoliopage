@@ -31,31 +31,6 @@ section h4{
     border: 2px solid black;
 }
 
-main p{
-    margin-left: 50px;
-    margin-right: 50px;
-}
-
-main ul{
-    margin-left: 50px;
-    margin-right: 50px;
-}
-
-section p{
-    margin-left: 50px;
-    margin-right: 50px;
-}
-
-article p{
-    margin-right: 50px;
-    margin-left: 50px;
-}
-
-article ol{
-    margin-right: 50px;
-    margin-left: 50px;
-}
-
 body{
     background-color: antiquewhite;
 }
