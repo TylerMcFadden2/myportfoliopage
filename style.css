@@ -37,23 +37,23 @@ main p{
 }
 
 main ul{
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 section p{
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 article p{
-    margin-right: 500px;
-    margin-left: 500px;
+    margin-right: 50px;
+    margin-left: 50px;
 }
 
 article ol{
-    margin-right: 500px;
-    margin-left: 500px;
+    margin-right: 50px;
+    margin-left: 50px;
 }
 
 body{
