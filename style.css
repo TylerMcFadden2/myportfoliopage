@@ -53,21 +53,25 @@ header h2{
 }
 
 a:link{
-    color:blue
+    color: blue
 }
 a:visited{
-    color:blueviolet
+    color: blueviolet
 }
 a:hover{
-    color:darkgrey
+    color: darkgrey
 }
 a:active{
-    color:aqua
+    color: aqua
 }
 
 .content{
     margin: 0 auto;
     width: 580px;
+}
+
+hr{
+    color: burlywood;
 }
 /* I wanted to do a lot more css for my portfolio page but I was having trouble figuring it all out. In the header container I wanted to make it so there was less space between h1 and h2. I also wanted to do a background color to make the header stick out but it would not fill all the way to the edges. Same with footer container*/
 /*also when i tried using font-family to change the fonts for different text it was not working? i coould not figure out why*/
